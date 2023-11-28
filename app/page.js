@@ -29,6 +29,7 @@ export default function Home() {
         </div>
       </div>
 
+      <h2>Digital Hive Testing</h2>
       <div className={styles.center}>
         <Image
           className={styles.logo}
